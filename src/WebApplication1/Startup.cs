@@ -13,7 +13,7 @@ namespace WebApplication1
     public class Startup
     {
         public Startup(IHostingEnvironment env)
-        {
+        {ffwfwgff
             var builder = new ConfigurationBuilder()
                 .SetBasePath(env.ContentRootPath)
                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
